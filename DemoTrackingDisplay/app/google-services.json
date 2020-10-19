@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_number": "682870598443",
+    "firebase_url": "https://demotracking-dac57.firebaseio.com",
+    "project_id": "demotracking-dac57",
+    "storage_bucket": "demotracking-dac57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682870598443:android:a05661d2b565e4a001b36e",
+        "android_client_info": {
+          "package_name": "com.fdlsoftware.demotracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682870598443-cb8l491iedvmfgknqqidbk6beoaakk3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABd_nlKJXviwv_OHAF4Bi1bk7iKH6bfOw"
+        },
+        {
+          "current_key": "AIzaSyABPJjuzP-fedoU41bxt1KCu6TdU6Wl8hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682870598443-cb8l491iedvmfgknqqidbk6beoaakk3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682870598443:android:8c579ad75387486201b36e",
+        "android_client_info": {
+          "package_name": "com.fdlsoftware.demotrackingdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682870598443-cb8l491iedvmfgknqqidbk6beoaakk3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABd_nlKJXviwv_OHAF4Bi1bk7iKH6bfOw"
+        },
+        {
+          "current_key": "AIzaSyABPJjuzP-fedoU41bxt1KCu6TdU6Wl8hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682870598443-cb8l491iedvmfgknqqidbk6beoaakk3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
